@@ -45,6 +45,12 @@ $ pnpm dev
 $ pnpm run start:prod
 ```
 
+## Documentation
+
+```bash
+View docs on /api/docs
+```
+
 ## Run tests
 
 ```bash
